@@ -14,6 +14,7 @@ public class Main {
             hero.attack(enemy);
             enemy.attack(hero);
         }
+        //終わり
         System.out.println("戦闘終了");
     }
 }
